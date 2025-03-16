@@ -1,2 +1,0 @@
-echo '{"type":"ANNOUNCE", "height":50, "minedBy":"Sanskar", "nonce":"7452639", "messages":["1"], "hash":"11321231231322313213200000000", "timestamp": 123456}' | nc -u owl.cs.umanitoba.ca 8695
-echo '{"type":"STATS"}' | nc -u eagle.cs.umanitoba.ca 8695
